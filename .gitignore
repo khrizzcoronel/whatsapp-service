@@ -1,0 +1,6 @@
+node_modules/
+sesion_wasa/
+config.js
+.env
+.env.*
+npm-debug.log*
